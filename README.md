@@ -43,10 +43,12 @@
   <a href="https://processingjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" alt="processingjs" width="40" height="40"/> </a>
 </p>
 
-<a href="https://github.com/Daidanny008/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true" />
-</a>
-<a href="https://github.com/Daidanny008/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daidanny008&layout=compact&langs_count=8&card_width=320" />
-</a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daidanny008&" alt="Daidanny008" /></p>
+<p>
+  <a href="https://github.com/Daidanny008/github-readme-stats">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true" />
+  </a>
+  <a href="https://github.com/Daidanny008/convoychat">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daidanny008&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daidanny008&" alt="Daidanny008" />
+</p>
