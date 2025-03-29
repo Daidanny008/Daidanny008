@@ -41,9 +41,12 @@
   <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="swing" width="40" height="40"/> </a>
   <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> <img src="https://www.pygame.org/docs/_static/pygame_logo.png" alt="pygame" width="40" height="40"/> </a>
   <a href="https://processingjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" alt="processingjs" width="40" height="40"/> </a>
-  
 </p>
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daidanny008&langs_count=8&layout=compact"/>
+<a href="https://github.com/Daidanny008/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true" />
+</a>
+<a href="https://github.com/Daidanny008/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daidanny008&layout=compact&langs_count=8&card_width=320" />
+</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daidanny008&" alt="Daidanny008" /></p>
