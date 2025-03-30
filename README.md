@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daidanny008" alt="Daidanny008" /></a> </p>
 
-- 📫 How to reach me **daidanny009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/danny-dai-922120219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danny-dai-922120219" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/DaiDanDan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DaiDanDan" height="30" width="40" /></a>
 </p>
+- 📫 How to reach me **daidanny009@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
