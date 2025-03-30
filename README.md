@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Danny :D
 <h3 align="center">I am a second year Software Engineer at McMaster</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gracexie-ii" alt="gracexie-ii" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daidanny008" alt="Daidanny008" /></a> </p>
 
 - 📫 How to reach me **daidanny009@gmail.com**
 
