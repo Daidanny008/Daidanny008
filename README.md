@@ -45,7 +45,7 @@
 
 <p>
   <a href="https://github.com/Daidanny008/github-readme-stats">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true&include_all_commits" />
   </a>
   <a href="https://github.com/Daidanny008/convoychat">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daidanny008&layout=compact&langs_count=8&card_width=320" />
