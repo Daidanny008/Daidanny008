@@ -48,7 +48,7 @@
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true&include_all_commits" />
   </a>
   <a href="https://github.com/Daidanny008/convoychat">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daidanny008&layout=compact&langs_count=8&card_width=320" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daidanny008&layout=compact&langs_count=20&card_width=320" />
   </a>
   <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daidanny008&" alt="Daidanny008" />
 </p>
