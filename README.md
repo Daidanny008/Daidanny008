@@ -44,7 +44,7 @@
      R
 </p>
 
-<p align="left">          – OS | Frameworks/Libraries | GUI frameworks:
+<p align="left">          – OS | Tools/Frameworks/Libraries | GUI frameworks:
   <br><br>
                   
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="24" height="24"/> </a> 
