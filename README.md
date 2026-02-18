@@ -74,6 +74,7 @@
    ProcessingJS
 </p>
 
+<!--
 <p>
   <a href="https://github.com/Daidanny008/github-readme-stats">
     <img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=Daidanny008&show_icons=true&include_all_commits" />
