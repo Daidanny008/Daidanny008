@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Danny :D
-<h3 align="center">I am a third year Software Engineering Student at McMaster</h3>
-<h3 align="center">Software Engineering Intern (Co-op) @ <a href="https://dosu.dev">Dosu</a> — AI agent workflows, platform integrations, and model evals</h3>
+<h5 align="left">Level III Software Engineering student @ McMaster University</h5>
+<h5 align="left">Software Engineering Intern (Co-op) @ <a href="https://dosu.dev">Dosu</a> — AI tooling, platform integrations, and model evals</h5>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daidanny008" alt="Daidanny008" /></a> </p> -->
 
 
@@ -80,20 +80,20 @@
 <p align="left">          – Agentic Development | Platforms:
   <br><br>
                   
-  <a href="https://ai.pydantic.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pydantic" alt="pydantic ai" width="24" height="24"/> </a>
-   Pydantic AI, 
   <a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/claude" alt="claude code" width="24" height="24"/> </a>
    Claude Code, 
   <a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cursor/8A8A8A" alt="cursor" width="24" height="24"/> </a>
-   Cursor
+   Cursor, 
+  <a href="https://ai.pydantic.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pydantic" alt="pydantic ai" width="24" height="24"/> </a>
+   Pydantic AI
   <br><br>
                   
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="24" height="24"/> </a>
+   Supabase, 
   <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="24" height="24"/> </a>
    Azure DevOps, 
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="24" height="24"/> </a>
-   GitHub Actions, 
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="24" height="24"/> </a>
-   Supabase
+   GitHub Actions
 </p>
 
 <!--
