@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Danny :D
-<h5 align="left">Level III Software Engineering student @ McMaster University</h5>
-<h5 align="left">Software Engineering Intern (Co-op) @ <a href="https://dosu.dev">Dosu</a> — AI tooling, platform integrations, and model evals</h5>
+<h4 align="left">Level III Software Engineering student @ McMaster University</h5>
+<h4 align="left">Software Engineering Intern (Co-op) @ <a href="https://dosu.dev">Dosu</a> — AI tooling, platform integrations, and model evals</h5>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daidanny008" alt="Daidanny008" /></a> </p> -->
 
 
