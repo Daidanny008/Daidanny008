@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Danny :D
 <h3 align="center">I am a third year Software Engineering Student at McMaster</h3>
+<h3 align="center">Software Engineering Intern (Co-op) @ <a href="https://dosu.dev">Dosu</a> — AI agent workflows, platform integrations, and model evals</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daidanny008" alt="Daidanny008" /></a> </p> -->
 
 
@@ -16,7 +17,7 @@
 
 <p align="left">
           
-  <span style="font-size: 24px;"> – Programming | Scripting | Stats Languages:</span>
+  <span style="font-size: 24px;"> – Programming | Scripting | Data Languages:</span>
   <br><br>
                     
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24"/> </a> 
@@ -24,21 +25,25 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/> </a> 
      Java,  
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="24" height="24"/> </a> 
-     C, 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="24" height="24"/> </a>
-     SQL,
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="24" height="24"/> </a>
+     C 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white"><img src="https://cdn.simpleicons.org/gnubash/000000" alt="bash" width="24" height="24"/></picture> </a>
      Bash (Linux/Shell Scripting) 
   <br><br>
                   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> </a> 
      JavaScript,  
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/> </a> 
+     TypeScript,  
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="24" height="24"/> </a> 
      CSS (/Tailwind CSS),  
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="24" height="24"/> </a> 
      HTML
   <br><br>
                   
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/white"><img src="https://cdn.simpleicons.org/mysql/000000" alt="sql" width="24" height="24"/></picture> </a>
+     SQL,  
+   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="24" height="24"/> </a>
+     PostgreSQL,  
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="24" height="24"/> </a> 
      Matlab,  
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="24" height="24"/> </a>
@@ -58,9 +63,7 @@
    Git, 
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="24" height="24"/> </a>
    Maven, 
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="24" height="24" style="background: white; padding: 3px;"/> 
-</a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white"><img src="https://cdn.simpleicons.org/flask/000000" alt="flask" width="24" height="24"/></picture> </a>
    Flask
   <br><br>
                   
@@ -72,6 +75,25 @@
    PyGame, 
   <a href="https://processingjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" alt="processingjs" width="24" height="24"/> </a>
    ProcessingJS
+</p>
+
+<p align="left">          – Agentic Development | Platforms:
+  <br><br>
+                  
+  <a href="https://ai.pydantic.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pydantic" alt="pydantic ai" width="24" height="24"/> </a>
+   Pydantic AI, 
+  <a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/claude" alt="claude code" width="24" height="24"/> </a>
+   Claude Code, 
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cursor/8A8A8A" alt="cursor" width="24" height="24"/> </a>
+   Cursor
+  <br><br>
+                  
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="24" height="24"/> </a>
+   Azure DevOps, 
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="24" height="24"/> </a>
+   GitHub Actions, 
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="24" height="24"/> </a>
+   Supabase
 </p>
 
 <!--
